@@ -1,13 +1,3 @@
-# Installation
-> `npm install --save @types/component-emitter`
-
-# Summary
-This package contains type definitions for component-emitter (https://www.npmjs.com/package/component-emitter).
-
-# Details
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/component-emitter.
-## [index.d.ts](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/component-emitter/index.d.ts)
-````ts
 // Type definitions for component-emitter v1.2.1
 // Project: https://www.npmjs.com/package/component-emitter
 // Definitions by: Peter Snider <https://github.com/psnider>
@@ -33,13 +23,3 @@ declare const Emitter: {
 };
 
 export = Emitter;
-
-````
-
-### Additional Details
- * Last updated: Thu, 14 Oct 2021 19:01:31 GMT
- * Dependencies: none
- * Global values: none
-
-# Credits
-These definitions were written by [Peter Snider](https://github.com/psnider).
